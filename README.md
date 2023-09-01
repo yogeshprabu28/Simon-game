@@ -1,2 +1,2 @@
 # Simon-game
-Built Simon game using javaScript and jQuery
+Built Simon game using JavaScript and jQuery
